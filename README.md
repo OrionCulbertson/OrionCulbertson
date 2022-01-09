@@ -12,7 +12,7 @@
     - Artistic indie games
     - Fun pointless and experimental apps (Like [these](http://www.nathalielawhead.com/candybox/make-tiny-weird-software-please-all-about-desktop-pets-old-computer-eras-and-virtual-toys)!)
     - Making things people can interact with and enjoy, and the systems to support these things
-    - Chatbot Programs
+    - Chatbots
     - Many other things too! I'm currently trying to choose which one to focus on for my next project.
     
 - 🌱 I’m currently learning ...
